@@ -1,0 +1,23 @@
+{
+  "name": "ecss-ast",
+  "version": "1.0.0",
+  "description": "ECSS abstract syntax tree.",
+  "main": "src/ast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maorui2014/ecss-ast.git"
+  },
+  "keywords": [
+    "ecss",
+    "ast"
+  ],
+  "author": "maorui2014@foxmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maorui2014/ecss-ast/issues"
+  },
+  "homepage": "https://github.com/maorui2014/ecss-ast#readme"
+}
